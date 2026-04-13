@@ -1,36 +1,51 @@
-# 旺山知味恋歌咖啡店
+# 知味恋歌咖啡馆 ☕🍰
 
-#### Description
-旺山知味恋歌咖啡店：一个专注于获得世界冠军的咖啡与甜品，面包，轻餐的冠军团队，致力于为顾客提供愉悦的用餐体验和独特的咖啡文化。
+**Zhi Wei Lian Ge Café** — Wangsen Cultural Creative's French Garden Café in Wangshan, Suzhou
 
-#### Software Architecture
-Software architecture description
+---
 
-#### Installation
+## About
+**知味恋歌 (Zhi Wei Lian Ge)** is a popular garden café located in Suzhou's Wangshan Scenic Area, founded by Master Baker Wangsen. The café features forest treehouses, tea garden views, and French-style courtyard afternoon tea — one of Wangshan's top photo spots.
 
-1.  xxxx
-2.  xxxx
-3.  xxxx
+> 🍞 Wangsen Cultural Creative — China's best coffee, bread, desserts, and cultural creative products
 
-#### Instructions
+---
 
-1.  xxxx
-2.  xxxx
-3.  xxxx
+## Dessert Menu (Gallery)
 
-#### Contribution
+The desserts at 知味恋歌 are made by the Wangsen Champion Alliance team, featuring a variety of exquisite and delicious items.
 
-1.  Fork the repository
-2.  Create Feat_xxx branch
-3.  Commit your code
-4.  Create Pull Request
+### Menu Gallery Files
 
+| File | Description |
+|------|-------------|
+| `甜品内容/1-3.pdf` | Dessert Menu Pages 1-3 |
+| `甜品内容/4-6.pdf` | Dessert Menu Pages 4-6 |
+| `甜品内容/7-9.pdf` | Dessert Menu Pages 7-9 |
+| `甜品内容/甜品1-3.pdf` | Dessert Special Album |
+| `甜品内容/讲解内容.pdf` | Product Description Text |
+| `甜品内容/讲解内容.pptx` | Product Introduction PPT |
+| `甜品内容/平面一层-Model_00.png` | Floor Plan |
+| `甜品内容/截屏2025-06-23 14.15.59.png` | Menu Screenshot |
 
-#### Gitee Feature
+---
 
-1.  You can use Readme\_XXX.md to support different languages, such as Readme\_en.md, Readme\_zh.md
-2.  Gitee blog [blog.gitee.com](https://blog.gitee.com)
-3.  Explore open source project [https://gitee.com/explore](https://gitee.com/explore)
-4.  The most valuable open source project [GVP](https://gitee.com/gvp)
-5.  The manual of Gitee [https://gitee.com/help](https://gitee.com/help)
-6.  The most popular members  [https://gitee.com/gitee-stars/](https://gitee.com/gitee-stars/)
+## What's Included
+- Basic Info (Address, Phone, Hours, Average Cost)
+- Environment Features (Treehouse, Courtyard, Tea Garden View)
+- Drinks & Food (Coffee, Desserts, Afternoon Tea, Light Meals)
+- Dessert Menu Gallery (PDF/Images)
+- Travel Guide (Transportation, Parking, Photo Tips)
+- Skills Interface Definitions
+
+---
+
+## Skills List
+- `get_zhiweiliange_basic`: Basic Info Query
+- `get_zhiweiliange_feature`: Environment & Features
+- `get_zhiweiliange_menu`: Menu & Signature Recommendations
+- `get_zhiweiliange_tips`: Travel & Transport Guide
+- `get_zhiweiliange_card`: One-Line Introduction
+
+## Data Source
+Field research + Public reviews + Official scenic area materials
